@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24c6dc&text=Dominik%20Streimelweger&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=// mission%20log%20·%20portfolio&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
 
 <a href="https://streimi.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=700&lines=HTL+graduate+%7C+Electronics+%26+Technical+Informatics;Web+dev+%C2%B7+Data+science+%C2%B7+Python+%26+C%2FC%2B%2B;Video+editor+%C2%B7+3D+artist+%C2%B7+designer;Turning+ideas+into+digital+experiences+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=700&lines=HTL+graduate+%7C+Electronics+%26+Technical+Informatics;Web+dev+%C2%B7+Data+science+%C2%B7+Machine+learning;Video+editor+%C2%B7+3D+artist+%C2%B7+designer;Turning+ideas+into+digital+experiences+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@ class Dominik:
         self.role     = "HTL graduate · Electronics & Technical Informatics"
         self.based_in = "Austria 🇦🇹"
         self.loves    = ["programming", "graphic design", "multimedia", "games"]
-        self.crafts   = ["web apps", "data dashboards", "video edits", "3D renders"]
+        self.crafts   = ["web apps", "data dashboards", "machine learning", "video edits", "3D renders"]
         self.mission  = "combine technical expertise with artistic expression"
 
     def currently(self):
@@ -50,6 +50,8 @@ I like where logic meets artistry: shipping clean code one day, grading footage 
 
 <img src="https://skillicons.dev/icons?i=ps,lr,ai,pr,ae,blender,maya,unreal,androidstudio&perline=9" alt="creative skills" />
 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-24C6DC?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-302B63?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -76,27 +78,6 @@ I like where logic meets artistry: shipping clean code one day, grading footage 
 | **Tools, IDEs & Platforms** | `████████░░` 84% |
 
 </details>
-
----
-
-## 🛰️ Flight Path
-
-```mermaid
-timeline
-    title Mission log
-    2018-2019 : Internships at Stragere Management Consulting
-              : IT security, pantograph monitoring system
-    2022 : Summer job at ÖBB Infrastruktur AG
-         : Program to browse an internal database
-    2023-2024 : Austrian Armed Forces
-              : Technical Reconnaissance Company
-    2024 : Technicum 64 GmbH
-         : Tech support and multimedia installation
-    2025 : Sprecher Automation GmbH, Linz
-         : Energy dashboard from scratch
-    2026 : ÖBB Infrastruktur AG, Vienna
-         : Data science
-```
 
 ---
 
