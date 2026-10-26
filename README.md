@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d17,50:1b1464,100:6a11cb&height=220&section=header&text=Dominik%20Streimelweger&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=%2F%2F%20mission%20log%20%E2%80%94%20streimi&descAlignY=60&descSize=18&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d17,50:1b1464,100:6a11cb&height=220&section=header&text=Dominik&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=%2F%2F%20mission%20log%20%E2%80%94%20streimi&descAlignY=60&descSize=18&animation=fadeIn" alt="header" width="100%"/>
 
 <a href="https://github.com/streimi">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+Initiating+launch+sequence...;HTL+Graduate+%C2%B7+Electronics+%26+Technical+Informatics;Web+Dev+%C2%B7+Data+Science+%C2%B7+3D+%C2%B7+Video;Houston%2C+we+have+a+portfolio." alt="Typing SVG" />
